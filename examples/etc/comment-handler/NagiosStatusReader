@@ -1,0 +1,1 @@
+{"config":"NagiosStatusReader","path":"/var/log/nagios/status.dat","proto":"fileread"}

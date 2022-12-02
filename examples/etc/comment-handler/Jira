@@ -1,0 +1,1 @@
+{"config":"Jira","host":"jira.example.com","pass":"THIS-IS-NOT-A-SECURE-PASSWORD","projects":["BOFH","SYSADMIN","SRE","NETWORK","DESKTOP"],"proto":"https","user":"A-JIRA-USER-FOR-AUTOMATION-THAT-CAN-READ-THE-CONFIGURED-PROJECTS"}
